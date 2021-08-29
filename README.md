@@ -1,2 +1,2 @@
-# S411_ATS-Tuebingen
+# S411 Advanced Time Series Analysis
  This repository containts the code associated with the assignments of the course "Adavanced Time Series Analysis" dealing with univariate and multivariate time series. Amongst others, topics include ARMA models, forecasting, stationary and non-stationary processes, structural vector-autoregressive models, cointegration, equilibrium correction models and Johansen methodology. The corresponding practical exercises were implemented using MATLAB and mini-papers for the more sophisticated assignments 3 and 6 were written.
